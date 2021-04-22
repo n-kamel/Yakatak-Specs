@@ -1,0 +1,2 @@
+# Specs
+Yakatak Cocoapods Specs
